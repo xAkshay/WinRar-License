@@ -1,5 +1,5 @@
 # WinRar-License
-##WinRAR Unlimited Company License
+## WinRAR Unlimited Company License
 
 Step 1:Go to Winrar install directory (by-default => c:\ProgramFiles\WinRAR\)
 
